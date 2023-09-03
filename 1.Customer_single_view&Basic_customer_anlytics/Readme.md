@@ -56,9 +56,9 @@ From the customer single view result, we will use it to segment customers into g
 
 ## K-Means Clustering
 
-**Notebooks:**
+**Notebooks:** [Customer Segmentation](./MADT8101_Basic_Customer_Analytics.ipynb)
 
-**Google Colab:**
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsmaMora/MADT8101/blob/main/1.Customer_single_view&Basic_customer_anlytics/MADT8101_Basic_Customer_Analytics.ipynb)
 
 **Feature summary**
 
