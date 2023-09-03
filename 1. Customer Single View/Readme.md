@@ -13,4 +13,4 @@ Customer single view can create in a customer data platform (CDP) to centralize 
 ### Data Processing
 Example of creating a customer single view from supermarket's data.
 
-**Data:** [supermarket.parquet](https://github.com/AsmaMora/Customer_Analytics/raw/main/MADT8101/1._Customer_Single_View/supermarket.parquet)  
+**Data:** [supermarket.parquet](./supermarket.parquet)  
