@@ -44,3 +44,7 @@ The data includes member and non-memer transactions and we found the member than
 **Data transformation**
 
 After cleaning and preparing raw data, we will create new features and summarize the data to get a single customer view.
+![Features](./Customer_single_view_feature.png)
+
+**Customer Single view data:** [single_view.csv](./Customer_Single_View_result.csv)
+
