@@ -14,6 +14,11 @@ Customer single view can create in a customer data platform (CDP) to centralize 
 
 **Data:** [supermarket.parquet](./supermarket.parquet)
 
-**Dataset Details**
-The dataset is the sales transactions data of a supermarket from year 2006 to 2008. It's include 956K rows and, 22 columns and the details of the data are as per the table below.
+**Dataset overview**
+The dataset is the sales transactions data of a supermarket from year 2006 to 2008 and the details of the data are as per the table below.
 ![Dataset_Details](./Supermarket_dataset_detail.png)
+This data includes member and non-memer transactions, so in this example will focus on member transaction only.
+![Dataset_Details]
+
+**Sanity check and clean raw data**
+ This dataset consists of 956K rows and 22 columns
