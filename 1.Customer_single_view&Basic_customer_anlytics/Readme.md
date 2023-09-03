@@ -14,9 +14,9 @@ Customer single view can create in a customer data platform (CDP) to centralize 
 
 **Data:** [supermarket.parquet](./supermarket.parquet)
 
-**Notebooks:**
+**Notebooks:** [Customer single view](./MADT8101_Customer_single_view.ipynb)
 
-**Google Colab:**
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsmaMora/MADT8101/blob/main/1.Customer_single_view&Basic_customer_anlytics/MADT8101_Customer_single_view.ipynb)
 
 **Dataset overview**
 
