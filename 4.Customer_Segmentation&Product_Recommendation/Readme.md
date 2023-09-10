@@ -87,9 +87,9 @@ Transform sales transaction data by unpivoting product and quantity columns of e
 ## Customer Segmentation by K-Means Clustering
 Segment customer from customer single view result data
 
-**Notebooks:**
+**Notebooks:** [Customer Segmentation](./MADT8101_Customer_segmentation.ipynb)
 
-**Google colab:**
+**Google colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsmaMora/MADT8101/blob/main/4.Customer_Segmentation&Product_Recommendation/MADT8101_Customer_segmentation.ipynb)
 
 **Feature summary**
 
@@ -134,7 +134,8 @@ Select K = 3 with silhoette score = 0.553
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/9cef5e58-8db8-449f-91fc-1e464bff41cd)
 
 ### Result conclusion
-![image](https://github.com/AsmaMora/MADT8101/assets/132048257/f2055df8-ec37-4a8f-8e35-3b06eeab7ebb)
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/966a32f8-c32c-441c-b7a2-1d3b7a93f60c)
+
 
 ## Product Recommendation
 
