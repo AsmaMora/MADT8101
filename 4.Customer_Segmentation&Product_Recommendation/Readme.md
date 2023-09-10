@@ -122,11 +122,27 @@ Distribution
 * Member: No. of Member (Downline) of each customer
 
 ### Find the optimal number of clusters
-Select K = 4 with silhoette score = 0.183
+Select K = 3 with silhoette score = 0.553
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/76d5fb38-d598-4e8a-961c-5656efd581b7)
 
+### Principle Component Analysis
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/ce25bd26-008e-42e5-977c-d5739fe3b30f)
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/8c8471bb-af75-4897-b040-723a4d99456a)
 
+### Feature Importance
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/03a2444f-070f-414d-9196-fce6cec48bec)
 
+### Summarize Custers Result
+**No. of customers and total spending by cluster**
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/8ac9ec05-694f-4c6a-a849-849a6ecd3296)
 
+**Average of feature values by cluster**
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/9cef5e58-8db8-449f-91fc-1e464bff41cd)
+
+### Result conclusion
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/f2055df8-ec37-4a8f-8e35-3b06eeab7ebb)
+
+## Product Recommendation
 
 
 
