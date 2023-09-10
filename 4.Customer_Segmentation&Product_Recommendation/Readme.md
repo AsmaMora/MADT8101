@@ -87,8 +87,57 @@ Summarize sales transaction data to display customer single view and use to deve
 **Result:**
 #### 2. Unpivot data product
 Transform sales transaction data by unpivoting product and quantity columns of each transaction to rows.
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/887e8b82-cec7-44dc-8d4d-2a171fda9922)
 
 **Result:**
 ## Customer Segmentation by K-Means Clustering
+Segment customer from customer single view result data
 
-We will use customer single view result data to 
+**Notebooks:**
+
+**Google colab:**
+
+**Feature summary**
+
+Behaviour
+
+* Total amount: Total spending amount per customer
+* Total quantity: Total sales volume per customer
+* Frequency: No. of transaction per customer
+* Visit period: Period from first date to last date transaction of each customer
+* Mean time between purchase: Started date - Last date then divided by frequency
+* Basket size: Average price per unit per customer
+* Order size: Average spending per order per customer
+* Visit size: Average sales volume per order per customer
+* CLTV: Customer Lifetime Values
+* Discount amount: Total discount amount per customer
+* Visit center: No. of visit center of each customer
+
+Ratio
+
+* %Qty by price range: Proportion of sales volume in any price range (4 ranges)
+
+Distribution
+
+* Member: No. of Member (Downline) of each customer
+
+### Find the optimal number of clusters
+Select K = 4 with silhoette score = 0.183
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
