@@ -84,6 +84,11 @@ Summarize sales transaction data to display customer single view and use to deve
 **Data dictionary**
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/c8202814-1013-4bd6-aaff-958f2b7ba3a6)
 
-2. **Unpivot data product**
-
+**Result:**
+#### 2. Unpivot data product
 Transform sales transaction data by unpivoting product and quantity columns of each transaction to rows.
+
+**Result:**
+## Customer Segmentation by K-Means Clustering
+
+We will use customer single view result data to 
