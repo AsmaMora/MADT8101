@@ -17,12 +17,6 @@ A distribution company which sales various health product and has 5 service loca
   1. **Customer segmentation** to reach out customers more effectively
   2. **Product recommendation** to boost revenue and engagement by sending personalized message
 
-**Data:**
-
-**Notebooks:**
-
-**Google colab:**
-
 ## Dataset overview
 
 #### 1. Sales transaction data from 2021 - 2023 (2,404,316 rows)
@@ -84,12 +78,12 @@ Summarize sales transaction data to display customer single view and use to deve
 **Data dictionary**
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/c8202814-1013-4bd6-aaff-958f2b7ba3a6)
 
-**Result:**
+**Result:** [Customer_feature.parquet](./customer_feature_2022.01.01_2023.07.parquet)
 #### 2. Unpivot data product
 Transform sales transaction data by unpivoting product and quantity columns of each transaction to rows.
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/887e8b82-cec7-44dc-8d4d-2a171fda9922)
 
-**Result:**
+**Result:** [Trans_data_unpivot.parquet](./trans_data_unpivot.parquet)
 ## Customer Segmentation by K-Means Clustering
 Segment customer from customer single view result data
 
