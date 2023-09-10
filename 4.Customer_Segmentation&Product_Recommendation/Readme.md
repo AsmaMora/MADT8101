@@ -137,15 +137,53 @@ Select K = 3 with silhoette score = 0.553
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/966a32f8-c32c-441c-b7a2-1d3b7a93f60c)
 
 
-## Product Recommendation
+## Product Recommendation by Cosine Similarity Model
+From clustering result we would like to recommend product for each group.
+
+### Prepare data
+Map cluster result to sales transaction unpivot data to separate customer into groups.
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/d05008b0-34ad-4101-8499-97e5962d2ef3)
+
+**Result:**
+[transaction_cluster0.parquet](./transaction_cluster0.parquet) , 
+[transaction_cluster1.parquet](./transaction_cluster1.parquet) , 
+[transaction_cluster2.parquet](./transaction_cluster2.parquet)
+
+### Cosine Similarity Model
+
+**Notebooks:** [Product_Recommendation](./MADT8101_Product_recommendation.ipynb)
+
+**Google colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsmaMora/MADT8101/blob/main/4.Customer_Segmentation&Product_Recommendation/MADT8101_Product_recommendation.ipynb)
+
+**Method**
+#### 1. Import Function
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/39da8713-9742-4888-9ff2-d7d4dc3fed3e)
+
+#### 2. Check missing value 
+There are no null value in any column.
+   
+#### 3. Create Member ID VS Product qty Matrix by pivot table function
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/f2713137-5451-4386-8c78-c6f1702529e3)
+
+#### 4. Create User to User similarity matrix
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/e4901a59-1ad0-4056-b555-a1482add374f)
+
+#### 5. Testing by random pick Member ID to display the most similar Member ID.
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/93dddd4a-1833-46d3-8149-121db5bd5789)
+
+#### Display the list of items recommended for Y in each group
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/d4458054-2bf8-4fd1-9337-89862b8e0e43)
+
+### Example of implementation
+#### Display product recommendation to customer on e-commerce platfrom
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/0c249770-5441-45a9-83eb-2c19cabe56d2)
+
+#### Create customer dashboard
+![image](https://github.com/AsmaMora/MADT8101/assets/132048257/792b705d-9701-45a5-ae90-732ae8494aed)
 
 
 
-
-
-
-
-
+ 
 
 
 
