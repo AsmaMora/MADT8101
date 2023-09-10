@@ -10,9 +10,9 @@ Case study from comments about Got to grill premium halal restaurant on social m
 
 **Data:** [Got_to_grill_comment](./Got_to_grill_review.csv)
 
-**Notebook:** [Voice_of_Customer](./MADT8101%Voice%of%customer.ipynb)
+**Notebook:** [Voice_of_Customer](./MADT8101_Voice_of_customer.ipynb)
 
-**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsmaMora/MADT8101/blob/main/5.Voice_of_customer/MADT8101%Voice%of%customer.ipynb)
+**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsmaMora/MADT8101/blob/main/5.Voice_of_customer/MADT8101_Voice_of_customer.ipynb)
 
 **Sample data:** The data include 10 comments as below
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/b60cb828-f842-497c-9628-6355b0e47cef)
