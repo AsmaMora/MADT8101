@@ -1,6 +1,15 @@
 # Churn scoring
+
+**Data:** [E_Commerce_Dataset.xlsx](./E_Commerce_Dataset.xlsx)
+
+**Notebooks:** [Churn_Scoring](./MADT8101_Churn_scoring.ipynb)
+
+**Google colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsmaMora/MADT8101/blob/main/3.Churn_Scoring/MADT8101_Churn_scoring.ipynb)
+
+
 ## Dataset overview
-The dataset is the customer data of e-commerce include 5,630 rows and 20 columns. The details of each columns are as per the table below.
+
+The dataset is the customer information of e-commerce include 5,630 rows and 20 columns. The details of each columns are as per the table below.
 
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/f118a25b-a2b9-461a-a96f-8b8aad6c25ea)
 
