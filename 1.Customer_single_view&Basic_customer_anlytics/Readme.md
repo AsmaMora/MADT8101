@@ -10,7 +10,8 @@ Customer single view can create in a customer data platform (CDP) to centralize 
 - Understand customer better on their profile, purchasing behavior etc. 
 - Helps to make better customer relationships by providing consistent interactions across touchpoints and departments that meet the need of customer
 
-## Example of creating a customer single view for supermarket's data
+## Use case
+### Example of creating a customer single view from supermarket's data
 
 **Data:** [supermarket.parquet](./supermarket.parquet)
 
