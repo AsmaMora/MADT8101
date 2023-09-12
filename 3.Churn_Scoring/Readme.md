@@ -8,7 +8,8 @@ Churn scoring is a process to predict which customers might stop using a service
 
 Helps a business know which customers are at risk of leaving. This way, the business can reach out to those customers with special offers or improved services to try and keep them around.
 
-## Example of churn analysis and scoring for e-commerce
+## Use case
+### Example of churn analysis and scoring for e-commerce
 
 **Data:** [E_Commerce_Dataset.xlsx](./E_Commerce_Dataset.xlsx)
 
