@@ -14,7 +14,9 @@ A product recommendation is basically a filtering system that seeks to predict a
 2. Enhanced User experience: Recommendations make the shopping process more convenient and enjoyable, helping users find what they're looking for faster.
 3. Cross-Selling and Upselling: Recommendations can suggest complementary or higher-priced items, increasing the average order value.
 
-## Example of creating a customer segmentation and product recommendation
+## Use case
+
+### Example of creating a customer segmentation and product recommendation
 A distribution company which sales various health product and has 5 service locations in Asia would like to reach out to their customers more effectively by increasing personalized transactions, improve brand loyalty and customer life time value by performing.
 
   1. **Customer segmentation** to reach out customers more effectively
