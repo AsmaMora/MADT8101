@@ -37,4 +37,4 @@ The data include 10 comments as below
 
 ## Conclusion and Business recommendation
 
-From the voice of customer analysis, The restaurant is quite famous for the beef which is the main ingrediant of the restaurant. In addition, the quality and variety of the restaurant's menu is worth mentioning. Most of the comments were positive, such as delicious, good value for money, so this restaurant should maintain their good point to make the customers continue maintain a positive opinion and increase the band loyalty.
+According to customer feedback, the restaurant is renowned for its beef dishes, which are a highlight of their menu. Additionally, the restaurant's menu is noteworthy for its quality and variety. Many comments were positive, with customers describing the food as delicious and a good value for money. To maintain a positive reputation and build customer loyalty, the restaurant should continue emphasizing these strengths.
