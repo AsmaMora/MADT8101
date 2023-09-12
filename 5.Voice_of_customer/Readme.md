@@ -16,24 +16,25 @@ Case study from comments about Got to grill premium halal restaurant on social m
 
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsmaMora/MADT8101/blob/main/5.Voice_of_customer/MADT8101_Voice_of_customer.ipynb)
 
-**Sample data:** The data include 10 comments as below
+## Sample data 
+The data include 10 comments as below
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/b60cb828-f842-497c-9628-6355b0e47cef)
 
-#### Topic Modeling with LDA
+## Topic Modeling with LDA
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/7032b594-d7ef-4d88-a701-d154c1badeaf)
 
-Group 1 Highlight of restaurant
+#### Group 1 Highlight of restaurant
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/c1167599-2452-4373-b4ac-b8ca0dbb7756)
 
-Group 2 Quality of food ingredients
+#### Group 2 Quality of food ingredients
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/374a932a-eb39-4634-ad11-3fc4123e6e11)
 
-Group 3 Varity of menu
+#### Group 3 Varity of menu
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/45b838f4-d4e3-4787-b08a-25cd2a242729)
 
 
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/c2c4697d-5101-46b9-b51b-3467b97f3ed1)
 
-#### Conclusion and Business recommendation
+## Conclusion and Business recommendation
 
 From the voice of customer analysis, The restaurant is quite famous for the beef which is the main ingrediant of the restaurant. In addition, the quality and variety of the restaurant's menu is worth mentioning. Most of the comments were positive, such as delicious, good value for money, so this restaurant should maintain their good point to make the customers continue maintain a positive opinion and increase the band loyalty.
