@@ -6,7 +6,7 @@ Customer Single view is a set of information which gather all the data about the
 
 Customer single view can create in a customer data platform (CDP) to centralize all user information and make it available across the related teams in the company to query and analysts
 
-### Benefit
+### Benefits
 - Understand customer better on their profile, purchasing behavior etc. 
 - Helps to make better customer relationships by providing consistent interactions across touchpoints and departments that meet the need of customer
 
