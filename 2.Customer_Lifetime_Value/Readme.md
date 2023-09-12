@@ -13,3 +13,4 @@ Helps a business understand how much money each customer is likely to bring in o
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/9513e755-f6f1-4fdc-a20c-013fb5cb037d)
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/219fe153-af8b-4f72-bceb-721cd6e09ecd)
 
+**Presentation:** [CLV_First_choice_credit_card](./CLV_First%choice%credit%card.pdf)
