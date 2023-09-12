@@ -5,7 +5,9 @@ Voice of customer refers to the comment or feedback of the customer gives to the
 #### Benefits
 Voice of customer analytics makes the company better understand about their customer needs and howto improve products or services to provide better customer experiences.
 
-## Example of Voice of customer analysis with NLP
+## Use case
+
+### Example of Voice of customer analysis with NLP
 Case study from comments about Got to grill premium halal restaurant on social media.
 
 **Data:** [Got_to_grill_comment](./Got_to_grill_review.csv)
