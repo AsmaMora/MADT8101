@@ -1,20 +1,20 @@
 # Customer Segmentation
-### Definition
+#### Definition
 Customer segmentation, in simple terms, involves splitting customers into groups based on their characteristics and behavior. This enables the company to gain a deeper understanding of customer needs and create customized marketing strategies for each group, making sales efforts more effective. This focused approach enhances customer engagement, leading to increased loyalty and meaningful interactions.
 
-### Benefits
+#### Benefits
 Customer segmentation helps companies gain deeper insights into their customers, refine marketing and sales tactics, and identify key customer segments to invest in. It also aids in improving marketing techniques and action plans.
 
 # Product Recommendation
-### Definition
+#### Definition
 A product recommendation is basically a filtering system that seeks to predict and show the items that a user would like to purchase. It may not be entirely accurate, but if it shows you what you like then it is doing its job right.
 
-### Benefits
+#### Benefits
 1. Provide personalized shopping experiences to customer by suggesting products based on a user's past behavior, preferences, and demographics.
 2. Enhanced User experience: Recommendations make the shopping process more convenient and enjoyable, helping users find what they're looking for faster.
 3. Cross-Selling and Upselling: Recommendations can suggest complementary or higher-priced items, increasing the average order value.
 
-# Case study
+## Example of creating a customer segmentation and product recommendation
 A distribution company which sales various health product and has 5 service locations in Asia would like to reach out to their customers more effectively by increasing personalized transactions, improve brand loyalty and customer life time value by performing.
 
   1. **Customer segmentation** to reach out customers more effectively
