@@ -32,4 +32,6 @@ Group 3 Varity of menu
 
 ![image](https://github.com/AsmaMora/MADT8101/assets/132048257/c2c4697d-5101-46b9-b51b-3467b97f3ed1)
 
-#### Business recommendation
+#### Conclusion and Business recommendation
+
+From the voice of customer analysis, The restaurant is quite famous for the beef which is the main ingrediant of the restaurant. In addition, the quality and variety of the restaurant's menu is worth mentioning. Most of the comments were positive, such as delicious, good value for money, so this restaurant should maintain their good point to make the customers continue maintain a positive opinion and increase the band loyalty.
