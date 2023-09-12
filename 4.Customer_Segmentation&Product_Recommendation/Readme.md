@@ -10,9 +10,12 @@ Customer segmentation helps companies gain deeper insights into their customers,
 A product recommendation is basically a filtering system that seeks to predict and show the items that a user would like to purchase. It may not be entirely accurate, but if it shows you what you like then it is doing its job right.
 
 ### Benefit
+1. Provide personalized shopping experiences to customer by suggesting products based on a user's past behavior, preferences, and demographics.
+2. Enhanced User experience: Recommendations make the shopping process more convenient and enjoyable, helping users find what they're looking for faster.
+3. Cross-Selling and Upselling: Recommendations can suggest complementary or higher-priced items, increasing the average order value.
 
 # Case study
-A distribution company which sales various health product and has 5 service locations in Asia would like to reach out to their customers more effectively by increasing personalized transactions, improve brand loyalty and customer life time value by performing
+A distribution company which sales various health product and has 5 service locations in Asia would like to reach out to their customers more effectively by increasing personalized transactions, improve brand loyalty and customer life time value by performing.
 
   1. **Customer segmentation** to reach out customers more effectively
   2. **Product recommendation** to boost revenue and engagement by sending personalized message
