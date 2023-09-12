@@ -1,11 +1,11 @@
 # Voice of customer analytics
-### Definition
+#### Definition
 Voice of customer refers to the comment or feedback of the customer gives to the brand, product, and services. Voice of customer analytics is the methods to gather customer feedback information through various channel and technique ex. social media, surveys, interviews and process to find the customer insight.
 
-### Benefit
+#### Benefits
 Voice of customer analytics makes the company better understand about their customer needs and howto improve products or services to provide better customer experiences.
 
-### Example of Voice of customer analysis with NLP
+## Example of Voice of customer analysis with NLP
 Case study from comments about Got to grill premium halal restaurant on social media.
 
 **Data:** [Got_to_grill_comment](./Got_to_grill_review.csv)
