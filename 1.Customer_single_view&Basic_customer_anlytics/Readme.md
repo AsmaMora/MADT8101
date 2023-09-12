@@ -55,7 +55,7 @@ After cleaning and preparing raw data, we will create new features and summarize
 
 From the customer single view result, we will use it to segment customers into groups to analyze data, find insight, and create actions to reach each customer group more appropriately.
 
-## K-Means Clustering
+### K-Means Clustering
 
 **Notebooks:** [Customer Segmentation](./MADT8101_Basic_Customer_Analytics.ipynb)
 
