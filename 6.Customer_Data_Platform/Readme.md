@@ -14,7 +14,9 @@ Customer Data Platform (CDP) is a centralized system that collects and organizes
 
 - Improve data Security by ensuring that customer data is kept safe and used in compliance with privacy rules.
 
-## Design a CDP for Department Store
+## Use case
+
+### Design a CDP for Department Store
 
 Designing a customer data platform (CDP) for a department store involves creating a centralized system that collects, stores, and manages customer data to provide valuable insights, improve customer experiences, and drive business growth.
 
