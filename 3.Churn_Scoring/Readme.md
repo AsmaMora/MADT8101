@@ -87,14 +87,19 @@ Select XGBoost model with fixing oversampling imbalance due to the high Precisio
 From the model result, we can conclude the impact of each variable as follow.
 
 * **Tenure:** Tenure is the most important predictor for churn. This indicates that customers who have been with the business for a longer time are less likely to churn. 
+    
     Action recommendation: The business would be to focus on customer retention strategies, loyalty programs, and special offers for long-term customers.
 * **Prefer order category laptop & accessory:** Customers who prefer ordering laptops and accessories are slightly less likely to churn. 
+    
     Action recommendation: Business might promote these products or provide incentives to customers who purchase them.
 * **Complain:** Customer complaints have a significant impact on churn. 
+    
     Action recommendation: Reducing complaints through improved customer service and support is crucial for retaining customers.
 * **Prefer order category mobile phone:** Similar to laptops and accessories, customers who prefer ordering mobile phones are less likely to churn. 
+    
     Action recommendation: Consider targeting promotions and offers specifically to this customer segment.
 * **Marital status married:** Being married appears to have a slight positive impact on churn. 
+    
     Action recommendation: Business could explore whether there are specific services or benefits that appeal more to married customers to enhance their loyalty.
 
 In summary, the most critical factors for reducing churn appear to be customer tenure and addressing complaints. Additionally, focusing on customers who prefer ordering laptops, accessories, and mobile phones can help improve retention. Marital status and city tier, while less influential, should still be considered in the customer engagement strategies.
